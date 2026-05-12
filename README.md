@@ -44,13 +44,11 @@ This plugin is distributed as a Claude Code marketplace. Once you've pushed it t
 
 ```bash
 # 1. Register the marketplace (one-time, per machine)
-claude plugin marketplace add <your-github-username>/my-freelancer-plugin
+claude plugin marketplace add tristanranelbaldoza-del/freelancer-toolkit
 
 # 2. Install the plugin
 claude plugin install freelancer-toolkit@freelancer-marketplace
 ```
-
-Replace `<your-github-username>` with your actual GitHub handle.
 
 ### From a local folder (development / before publishing)
 
