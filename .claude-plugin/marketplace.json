@@ -1,0 +1,24 @@
+{
+  "name": "freelancer-marketplace",
+  "owner": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "metadata": {
+    "description": "Single-plugin marketplace distributing the freelancer-toolkit plugin for client onboarding, content creation, and project management.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "freelancer-toolkit",
+      "description": "A freelancer's toolkit for client onboarding, content creation, and project management.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "email": "your@email.com"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
