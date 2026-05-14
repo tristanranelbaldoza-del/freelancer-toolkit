@@ -30,6 +30,7 @@ except Exception:
 if [[ -z "${tool_name:-}" || -z "${file_path:-}" ]]; then
   exit 0
 fi
+if [[ -L "$file_path" ]]; then exit 0; fi
 
 # Choose the changelog location:
 #   1. $CLAUDE_PROJECT_DIR (set by Claude Code if available)

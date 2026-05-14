@@ -255,7 +255,7 @@ Appends one line per Write/Edit to `changelog.txt` in your project root. Format:
 ```
 
 Useful for: auditing what Claude actually touched, generating retrospectives, debugging "wait, when did I write that?" moments.
-
+**Note for plugin users:** `changelog.txt` is excluded from git in this repository, but if you install this plugin into another project you should add `changelog.txt` to that project's `.gitignore` to avoid accidentally committing your activity log.
 ---
 
 ## MCP server — WordPress
