@@ -2,7 +2,7 @@
   "name": "freelancer-marketplace",
   "owner": {
     "name": "Tristan",
-    "email": "TristanRanelBaldoza@Gmail.com"
+    "email": "278107158+tristanranelbaldoza-del@users.noreply.github.com"
   },
   "metadata": {
     "description": "Single-plugin marketplace distributing the freelancer-toolkit plugin for client onboarding, content creation, and project management.",
@@ -15,7 +15,7 @@
       "version": "1.0.0",
       "author": {
         "name": "Tristan",
-        "email": "TristanRanelBaldoza@Gmail.com"
+        "email": "278107158+tristanranelbaldoza-del@users.noreply.github.com"
       },
       "source": "./",
       "category": "productivity"
