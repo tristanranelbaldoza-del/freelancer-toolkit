@@ -30,7 +30,7 @@ if [[ ! -f "$file_path" ]]; then
   exit 0
 fi
 
-file_path_lower="${file_path,,}"
+file_path_lower="$(printf '%s' "$file_path" | tr '[:upper:]' '[:lower:]')"
 
 warnings=()
 
