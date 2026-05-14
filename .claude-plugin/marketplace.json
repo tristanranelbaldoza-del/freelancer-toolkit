@@ -1,8 +1,8 @@
 {
   "name": "freelancer-marketplace",
   "owner": {
-    "name": "Your Name",
-    "email": "your@email.com"
+    "name": "Tristan",
+    "email": "TristanRanelBaldoza@Gmail.com"
   },
   "metadata": {
     "description": "Single-plugin marketplace distributing the freelancer-toolkit plugin for client onboarding, content creation, and project management.",
@@ -14,8 +14,8 @@
       "description": "A freelancer's toolkit for client onboarding, content creation, and project management.",
       "version": "1.0.0",
       "author": {
-        "name": "Your Name",
-        "email": "your@email.com"
+        "name": "Tristan",
+        "email": "TristanRanelBaldoza@Gmail.com"
       },
       "source": "./",
       "category": "productivity"
